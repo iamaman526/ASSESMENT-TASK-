@@ -10,8 +10,8 @@ The application uses the GitHub API to search for users based on their username.
 
 Here are some screenshots of the application:
 
-![Insert screenshot 1 here](insert image link here)
-![Insert screenshot 1 here](insert image link here)
+![no result](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/GITHUB-API/assets/Screenshot%20from%202023-04-07%2004-22-47.png)
+![with result](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/GITHUB-API/assets/Screenshot%20from%202023-04-07%2004-22-23.png)
 
 ## Built With
 
