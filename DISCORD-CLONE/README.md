@@ -1,6 +1,6 @@
 # Discord Homepage Interface
 
-This repository contains a responsive Discord homepage interface that works  on both laptops and mobile devices. The interface was built using HTML and Tailwind CSS, and can be easily run on your local machine.
+This repository contains a responsive Discord homepage interface that works on both laptops and mobile devices. The interface was built using HTML and Tailwind CSS, and can be easily run on your local machine.
 
 ## Getting Started
 
@@ -16,12 +16,14 @@ npm install
 ```
 
 Finally, run the project using the following command:
+
 ```bash
 npm start
 ```
+
 ## Live Link
 
-You can view the live project by clicking [here](insert link here).
+You can view the live project by clicking [here](https://extraordinary-figolla-3b08d4.netlify.app/).
 
 ## Project Image
 
@@ -36,18 +38,17 @@ Check out the interface design in the following image:
 
 ## Built With
 
-* HTML
-* Tailwind CSS
+- HTML
+- Tailwind CSS
 
 ## Learning
 
 Through this project, I learned:
 
-* How to use Tailwind CSS to build responsive interfaces
-* How to structure and organize HTML code for better readability
-* How to work with Git and Github for version control and collaboration
+- How to use Tailwind CSS to build responsive interfaces
+- How to structure and organize HTML code for better readability
+- How to work with Git and Github for version control and collaboration
 
+## Connect with me
 
-## Connect with me 
-
-* [AMAN KUMAR - Linkedln](https://www.linkedin.com/in/aman-kumar-9594661a7/)
+- [AMAN KUMAR - Linkedln](https://www.linkedin.com/in/aman-kumar-9594661a7/)
