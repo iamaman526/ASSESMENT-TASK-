@@ -8,7 +8,7 @@ The application uses the GitHub API to search for users based on their username.
 
 ## Live Link
 
-You can view the live project by clicking [here](https://extraordinary-figolla-3b08d4.netlify.app/).
+You can view the live project by clicking [here](https://serene-lebkuchen-e4f9b5.netlify.app/).
 ## Screenshots
 
 Here are some screenshots of the application:
