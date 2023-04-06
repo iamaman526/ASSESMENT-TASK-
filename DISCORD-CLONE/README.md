@@ -27,7 +27,12 @@ You can view the live project by clicking [here](insert link here).
 
 Check out the interface design in the following image:
 
-![Insert project image here](insert image link here)
+![screenshot 1](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
+![screenshot 2](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
+![screenshot 3](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
+![screenshot 4](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
+![screenshot 5](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
+![screenshot 6](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
 
 ## Built With
 
