@@ -6,6 +6,9 @@ This repository contains a web application that allows users to search for other
 
 The application uses the GitHub API to search for users based on their username. When a user submits a search query, the application sends a GET request to the API, which returns a list of matching users along with their profile information. The application then renders the results using JavaScript and displays them on the page.
 
+## Live Link
+
+You can view the live project by clicking [here](https://extraordinary-figolla-3b08d4.netlify.app/).
 ## Screenshots
 
 Here are some screenshots of the application:
