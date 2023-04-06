@@ -28,11 +28,11 @@ You can view the live project by clicking [here](insert link here).
 Check out the interface design in the following image:
 
 ![screenshot 1](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
-![screenshot 2](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
-![screenshot 3](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
-![screenshot 4](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
-![screenshot 5](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
-![screenshot 6](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-06.png)
+![screenshot 2](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-29.png)
+![screenshot 3](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-44.png)
+![screenshot 4](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-41-57.png)
+![screenshot 5](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-42-14.png)
+![screenshot 6](https://github.com/iamaman526/ASSESMENT-TASK-/blob/main/DISCORD-CLONE/images/Assets/Screenshot%20from%202023-04-07%2002-42-34.png)
 
 ## Built With
 
@@ -48,6 +48,6 @@ Through this project, I learned:
 * How to work with Git and Github for version control and collaboration
 
 
-## Author
+## Connect with me 
 
-* [AMAN KUMAR](https://www.linkedin.com/in/aman-kumar-9594661a7/)
+* [AMAN KUMAR - Linkedln](https://www.linkedin.com/in/aman-kumar-9594661a7/)
