@@ -9,12 +9,8 @@ The application uses the ISRO API to search for data about isro rockets and sate
 ## Live Link
 
 You can view the live project by clicking WORK IN PROGRESS . [here](In progress).
-## Screenshots
 
-Here are some screenshots of the application:
 
-![no result]()
-![with result]()
 
 ## Built With
 
