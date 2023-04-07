@@ -8,7 +8,7 @@ The application uses the ISRO API to search for data about isro rockets and sate
 
 ## Live Link
 
-You can view the live project by clicking WORK IN PROGRESS . [here](In progress).
+You can view the live project by clicking. [here](https://fantastic-druid-fbb987.netlify.app/index.html).
 
 
 
